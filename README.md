@@ -1,2 +1,0 @@
-# python
-Developed by chandan
